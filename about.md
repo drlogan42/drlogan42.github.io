@@ -15,7 +15,7 @@ redirect_from:
 
 ## Hydejack
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+A boutique Jekyll theme for hackers, nerds, and academics. With More to come! 
 {:.lead}
 
 1. this list will be replaced by the toc
