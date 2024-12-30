@@ -31,7 +31,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-   - title:            Example
+  - title:             Example
     url:               /example/
   - title:             Documentation
     url:               /docs/
