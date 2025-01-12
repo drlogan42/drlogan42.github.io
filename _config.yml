@@ -51,7 +51,7 @@ paginate:              10
 paginate_path:         /:num/
 
 # Theme
-remote_theme: hydecorp/hydejack@v9.2.1
+remote_theme: hydecorp/hydejack
 #theme: jekyll-theme-hydejack
 # Sidebar image and theme color of the site.
 accent_image:          assets/img/blog/background.jpg
