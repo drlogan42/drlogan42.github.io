@@ -1,22 +1,30 @@
+#Main Author
 author1:
   name:              <Logan> <Shaffer>
   email:             <loganshaffer42@gmail.com>
-
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Hi, I'm Logan Shaffer, an undergraduate student at Embry-Riddle Aeronautical
+    University, where I'm pursuing a degree in Engineering Physics with a concentration in Spacecraft Instrumentation. This
+    program combines space systems engineering and space physics, providing me with a strong
+    foundation in mathematics, engineering, and applied sciences. My concentration further focuses on
+    electrical engineering and programming, equipping me with skills aimed at instrumentation and
+    software design. Although my academic background isn't the traditional route to software development, it has
+    sharpened my analytical thinking, adaptability, and ability to tackle versatile technical challenges.
     
-    Open `_data/authors.yml` to edit this text.
+    I am passionate about coupling my technical expertise with creativity. Whether it's developing an indie game or
+    exploring cutting-edge technologies, I thrive in environments where curiosity meets innovation.
+    
+    In my free time, I enjoy rock climbing, playing tabletop games with friends, and working on game projects that excite
+    me. I also love to travel and learn about different cultures and languages.
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            https://github.com/drlogan42.png
     
   # Social media icons in sidebar
   social:
-    github:          <drlogan42>
-    email:           <loganshaffer42@gmail.com>
-    linkedin:        <https://www.linkedin.com/in/shaffer-logan>
+    github:          https://github.com/drlogan42
+    email:           loganshaffer42@gmail.com
+    linkedin:        https://www.linkedin.com/in/shaffer-logan
