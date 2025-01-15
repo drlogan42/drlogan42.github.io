@@ -1,6 +1,7 @@
 # General settings
 # ---------------------------------------------------------------------------------------
-#url:                   https://loganshaffer.com
+url:                   https://loganshaffer.com
+baseurl: /
 
 lang:                  en
 
@@ -51,8 +52,8 @@ paginate:              10
 paginate_path:         /:num/
 
 # Theme
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack
 # Sidebar image and theme color of the site.
 accent_image:          assets/img/blog/background.jpg
 accent_color:          rgb(79,177,186)
