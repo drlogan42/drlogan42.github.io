@@ -19,12 +19,18 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             example
     url:               /example/
-  - title:             Documentation
+  - title:             docs
     url:               /docs/
-  - title:             About
+  - title:             about
     url:               /about/
+  - title:             test
+    url:               /cv/
+  - title:             Experience
+    url:               /experience/
+  - title:             Projects
+    url:               /projects/
 
 # Add links to the footer.
 legal:
@@ -47,7 +53,8 @@ paginate_path:         /:num/
 
 
 # Theme
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg

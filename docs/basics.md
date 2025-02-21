@@ -4,6 +4,7 @@ title: Basics
 description: >
   This chapter covers the basics of content creation with Hydejack.
 hide_description: true
+permalink: /docs/basics/
 sitemap: false
 ---
 
