@@ -31,6 +31,8 @@ menu:
     url:               /experience/
   - title:             Projects
     url:               /projects/
+  - title:             Curriculum Vitae
+    url:               /cv/
 
 # Add links to the footer.
 legal:
