@@ -19,14 +19,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             example
-    url:               /example/
-  - title:             docs
-    url:               /docs/
-  - title:             about
-    url:               /about/
-  - title:             test
-    url:               /cv/
   - title:             Experience
     url:               /experience/
   - title:             Projects
