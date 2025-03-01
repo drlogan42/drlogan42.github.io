@@ -8,4 +8,4 @@ sitemap: false
 permalink: /cv/
 ---
 
-<embed src="Logan-S-CV.pdf" width="100%" height="1600px" type="application/pdf">
+<embed src="Logan-S-CV.pdf" width="100%" height="1200px" type="application/pdf">
