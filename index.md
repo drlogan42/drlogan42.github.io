@@ -16,9 +16,8 @@ I am passionate about coupling my technical expertise with creativity. Whether i
 In my free time, I enjoy rock climbing, playing tabletop games with friends, and working on game projects that excite me. I also love to travel and learn about different cultures and languages.
 
 # News & Updates:
-I recently partipated in the first annual ERAU SparkJam event. Click on the image to learn more!
-[![Screenshot](sparkjamcover.png){:.lead width="685" height="425" loading="lazy"}](http://localhost:4000/projects/#spark-jam-2025---tainted-blood-feb-2025)
-
+Check out my most recent project from my junior design class, a ball balancing platform!
+[![Screenshot](BalancerPicture.png){:.lead width="685" height="425" loading="lazy"}](http://localhost:4000/projects/#junior-design-project---ball-balancing-platform-jan-2025---apr-2025)
 
 
 > Check out the following pages to see what i've accomplished! — [Experience](http://localhost:4000/experience/), [Projects](http://localhost:4000/projects/), and [Curriculum Vitae](http://localhost:4000/cv/).

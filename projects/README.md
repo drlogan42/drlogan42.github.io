@@ -8,6 +8,11 @@ sitemap: false
 permalink: /projects/
 ---
 
+## [Junior Design Project - Ball Balancing Platform <span style="font-size: small; color: gray;">(Jan 2025 - Apr 2025)</span>](https://github.com/drlogan42/EP340-Junior-Design)
+![Screenshot](BalancerPicture.png){:.lead width="685" height="425" loading="lazy"}
+<p style="font-size: 1rem; color: grey;">The ball balancing platform in all of its glory.</p>
+I, alongside two others created a ball balancing platform for our junior design project. The platform reacts to any inputs atop a resistive screen which reads inputs, sends them to an Arduino, calculates the position of the stepper motors to turn and moves the platform in a way that balances a steel ball when rolled onto the top. I programmed the algorithms for the Inverse Kinematics which determined the position the arms must be oriented in order to move the ball to the platform. I also coded the PID algorithm, which found how much the ball needed to move to get to the center. All programming was in C++ using Arduino and CAD was modelled using Fusion 360.
+
 ## [Spark Jam 2025 - Tainted Blood <span style="font-size: small; color: gray;">(Feb 2025)</span>](https://drlogan42.itch.io)
 ![Screenshot](sparkjamcover.png){:.lead width="685" height="425" loading="lazy"}
 <p style="font-size: 1rem; color: grey;">Embry-Riddle Aeronautical University's first annual SparkJam.</p>
