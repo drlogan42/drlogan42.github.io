@@ -13,7 +13,7 @@ permalink: /experience/
 
 ![Screenshot](reu-program-classroom-pic.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
-I conducted mechanical characterization of self-healing PDMS-based polymers through tensile testing to evaluate healing efficiency. During this process, I discovered a 30% increase in healing performance when alcohol was introduced during the repair process. I developed Python scripts to automate the analysis of force and distance data, which saved over 10 hours per week while improving the accuracy of stress and strain calculations through repeatable tests. Additionally, I integrated a sensor and an Arduino microcontroller into the tensile tester, enabling real-time distance measurement that improved strain rate precision by 15%.
+Desc.
 
 
 
