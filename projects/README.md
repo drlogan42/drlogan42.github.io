@@ -8,7 +8,7 @@ sitemap: false
 permalink: /projects/
 ---
 
-## [Senior Design Project - Graphical User Interface <span style="font-size: small; color: gray;">(Jan 2025 - Apr 2025)</span>](https://github.com/drlogan42/mDLP-Senior-Design)
+## [Senior Design Project - Graphical User Interface <span style="font-size: small; color: gray;">(Sept 2025 - Dec 2025)</span>](https://github.com/drlogan42/mDLP-Senior-Design)
 ![Screenshot](mdlp-gui-showcase.gif){:.lead width="685" height="425" loading="lazy"}
 <p style="font-size: 1rem; color: grey;">Showing the features of the working program.</p>
 I created a Graphical User Interface that uses Python and Julia to simulate data from an instrument, display real-time graphs, record trials, and playback saved data from a CSV file. This project is a subsystem of a larger senior design project that spans two semesters. The GUI will function as the all-in-one software, taking inputs from an mDLP (miniature Dual Langmuir Probe) instrument while being tested inside a plasma chamber. Thus far, there is a working build for the GUI with all functioning features. However, the backend is planned to be converted from Python to a mainly Julia backend for a highly efficiency data handling system for the science data. The end result of the project will be a Python frontend and Julia backend for a proof of working dual language highly efficient GUI to handle incoming data, display, and perform functions of analysis, saving, and playback.
