@@ -20,7 +20,7 @@ My concentration in Spacecraft Instrumentation has equipped me with a strong tec
 I am passionate about the Internet of Things (IoT), Graphics, and Immersion—specifically how these technologies can extend human capabilities. This portfolio showcases how I leverage my experience to design and build unique interactive software.
 
 # News & Updates:
-Check out my most recent project from my senior design class, an interacitve Graphical User Interface for an mDLP (minature Dual Langmuir Probe)
+Check out my most recent project from my senior design class, an interacitve Graphical User Interface for an mDLP (miniature Dual Langmuir Probe)
 [![Screenshot](mdlp-gui-showcase.gif){:.lead width="685" height="425" loading="lazy"}](http://localhost:4000/projects/#senior-design-project---graphical-user-interface-aug-2025---dec-2025)
 
 

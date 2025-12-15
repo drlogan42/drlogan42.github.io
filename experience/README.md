@@ -11,10 +11,11 @@ permalink: /experience/
 
 ## [XR Lab Developer <span style="font-size: small; color: gray;">(May 2025 – Present)</span>](https://daytonabeach.erau.edu/about/labs/extended-reality)
 
-![Screenshot](reu-program-classroom-pic.jpg){:.lead width="1920" height="1080" loading="lazy"}
+<!-- ![Screenshot](reu-program-classroom-pic.jpg){:.lead width="1920" height="1080" loading="lazy"} -->
 
-Desc.
+As a Lead Developer at the Extended Reality (XR) Lab, I lead the development of applications from concept to deployment and maintenance for the College of Aviation. This includes creating the 'Immersive Flight Dynamics' application, a high-fidelity simulation that integrates the YAW Motion Simulator, Meta Quest 3 headset, and physical flight controls to train and experience flight maneuvers like stall and spin recovery. Furthermore, I optimized the development pipeline by creating a flexible and reusable 'Interactive Cessna 172' package by adapting the OpenXR SDK and custom flight control scripts. Moreover, I wrote System and Technical Design Documents for current and future projects in the lab.
 
+Essentially my work involves Human-Computer Interaction (HCI), hardware-software integration, and gamified learning in a simulation environment.
 
 
 
