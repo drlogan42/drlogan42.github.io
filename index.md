@@ -9,15 +9,21 @@ sitemap: false
 
 ![Screenshot](\assets\coverimage.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
-Hi, I’m Logan Shaffer, an undergraduate student at Embry-Riddle Aeronautical University, where I’m pursuing a degree in Engineering Physics with a concentration in Spacecraft Instrumentation. This program combines space systems engineering and space physics, providing me with a strong foundation in mathematics, engineering, and applied sciences. My concentration further focuses on electrical engineering and programming, equipping me with skills aimed at instrumentation and software design. Although my academic background isn’t the traditional route to software development, it has sharpened my analytical thinking, adaptability, and ability to tackle versatile technical challenges.
+Hi, I'm Logan. I applly my background in Engineering Physics to build innovative, immersive software.
 
-I am passionate about coupling my technical expertise with creativity. Whether it’s developing an indie game or exploring cutting-edge technologies, I thrive in environments where curiosity meets innovation.
+Currently, I am a senior at Embry-Riddle Aeronautical University and a Lead Developer at the Extended Reality (XR) Lab. My work sits at the intersection of Human-Computer Interaction, physics, and immersive simulation.
 
-In my free time, I enjoy rock climbing, playing tabletop games with friends, and working on game projects that excite me. I also love to travel and learn about different cultures and languages.
+My concentration in Spacecraft Instrumentation has equipped me with a strong technical foundation in:
+
+Math & Physics: Classical Mechanics, Astrophysics, E&M, and Signals & Systems.
+
+Hardware & Code: Microcomputers, Digital Circuit Design, and Digital Signal Processing.
+
+I am passionate about the Internet of Things (IoT), Graphics, and Immersion—specifically how these technologies can extend human capabilities. This portfolio showcases how I leverage my experience to design and build unique interactive software.
 
 # News & Updates:
-Check out my most recent project from my junior design class, a ball balancing platform!
-[![Screenshot](BalancerPicture.png){:.lead width="685" height="425" loading="lazy"}](http://localhost:4000/projects/#junior-design-project---ball-balancing-platform-jan-2025---apr-2025)
+Check out my most recent project from my senior design class, an interacitve Graphical User Interface for an mDLP (minature Dual Langmuir Probe)
+[![Screenshot](mdlp-gui-showcase.gif){:.lead width="685" height="425" loading="lazy"}](http://localhost:4000/projects/#senior-design-project---graphical-user-interface-aug-2025---dec-2025)
 
 
 > Check out the following pages to see what i've accomplished! — [Experience](http://localhost:4000/experience/), [Projects](http://localhost:4000/projects/), and [Curriculum Vitae](http://localhost:4000/cv/).
