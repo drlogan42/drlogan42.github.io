@@ -8,4 +8,4 @@ sitemap: false
 permalink: /cv/
 ---
 
-<embed src="Logan Shaffer - Resume 2025.pdf" width="100%" height="1200px" type="application/pdf">
+<embed src="Logan Shaffer Resume.pdf" width="100%" height="1200px" type="application/pdf">

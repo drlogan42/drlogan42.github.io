@@ -21,7 +21,7 @@ I am passionate about the Internet of Things (IoT), Graphics, and Immersion—sp
 
 # News & Updates:
 Check out my most recent project from my senior design class, an interacitve Graphical User Interface for an mDLP (miniature Dual Langmuir Probe)
-[![Screenshot](mdlp-gui-showcase.gif){:.lead width="685" height="425" loading="lazy"}]
+![Screenshot](mdlp-gui-showcase.gif){:.lead width="685" height="425" loading="lazy"}
 
 
 > Check out the following pages to see what i've accomplished! — [Experience](http://localhost:4000/experience/), [Projects](http://localhost:4000/projects/), and [Curriculum Vitae](http://localhost:4000/cv/).
