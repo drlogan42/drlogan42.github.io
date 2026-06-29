@@ -44,5 +44,5 @@ _zip
 /stats.json
 .dev.vars
 
-/assets/js/*hydejack-*
-/_sass/*/__*__/*
+/old/assets/js/*hydejack-*
+/old/_sass/*/__*__/*
