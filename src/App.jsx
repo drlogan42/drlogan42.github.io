@@ -25,17 +25,23 @@ const BIO = {
     image: "/assets/images/NaturalSmile-Edited.jpg",
     text1: "Software Developer",
     text2: "Engineering Physicist",
-    desc: "I ...",
+    desc: "Versatile developer from working in software to web, with a specialty in simulation development." +
+        " Extensive experience in full-stack and human-in-the-loop integration. From design to build, I take ideas and turn them into" +
+        " a reality with a focus on creating immersive and interactive experiences.",
     linkName1: "GitHub",
-    linkURL1: "link1url",
-    linkName2: "link2name",
-    linkURL2: "link2url",
-    infoBlock1: "infoBlock1",
-    infoBlockNum1: "infoBlockNum1",
-    infoBlock2: "infoBlock2",
-    infoBlockNum2: "infoBlockNum2",
-    infoBlock3: "infoBlock3",
-    infoBlockNum3: "infoBlockNum3",
+    linkName2: "LinkedIn",
+    linkName3: "Email",
+    linkName4: "Resume",
+    infoBlock1: "Years of Experience",
+    infoBlockNum1: "2+",
+    infoBlock2: "Applications",
+    infoBlockNum2: "4",
+    infoBlock3: "Engineering Projects",
+    infoBlockNum3: "3",
+    infoBlock4: "Game Created",
+    infoBlockNum4: "1",
+    infoBlock5: "Research Projects",
+    infoBlockNum5: "2",
 };
 
 
