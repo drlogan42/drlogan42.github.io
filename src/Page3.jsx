@@ -1,5 +1,5 @@
 const Page3 = () => {
-    return   <div className="flex flex-col w-full justify-center bg-[#bcdeff]">
+    return <div className="relative min-h-screen flex flex-col bg-[#bcdeff] border border-green-400">
 
         <div className="flex flex-col justify-center items-center border border-yellow-400">
 

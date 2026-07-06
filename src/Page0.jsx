@@ -52,7 +52,7 @@ const Page0 = (props) => {
                 </button>
 
                 <button className="shadow-2xl mx-[max(2vw,4px)] rounded-md p-1 bg-[#58aeff] text-[#142857] border-[#318cff]">
-                    <a href="/assets/files/Resume.pdf" download>
+                    <a href="/assets/files/LoganShafferResume.pdf" download>
                         <FontAwesomeIcon icon={faFileArrowDown}/>
                         {bio.linkName4}
                     </a>
