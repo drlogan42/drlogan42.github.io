@@ -93,7 +93,7 @@ const Page2 = (props) => {
 
                 {/*reu*/}
                 <div className="rounded-xl shadow-slate-700 shadow-md bg-slate-500/25">
-                    <div className="relative text-white pt-42 pb-5 pr-2 pl-2 border border-black">
+                    <div className="relative text-white pt-50 pb-5 pr-2 pl-2 border border-black">
                         <div className=" flex flex-col w-[clamp(100px,50vw,600px)] absolute top-2 left-2 border border-black">
                             <div className="font-bold text-[clamp(1.5rem,2vw,2.25rem)] ">
                                 {experience[2].title}
