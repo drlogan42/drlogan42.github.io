@@ -13,7 +13,7 @@ export default defineConfig({
         rollupOptions: {
             input: {
                 main: resolve(__dirname, 'index.html'),
-                threejs: resolve(__dirname, 'three.html') // Looks at root now
+                threejs: resolve(__dirname, 'src/three.html')
             }
         }
     }
