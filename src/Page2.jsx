@@ -2,9 +2,9 @@ const Page2 = (props) => {
     const { experience } = props;
     return <div className="flex flex-col w-full justify-center bg-[#bcdeff]">
 
-        <div className="flex flex-col justify-center items-center border border-yellow-400">
+        <div className="flex flex-col justify-center items-center">
 
-            <div className="flex flex-col items-center border border-red-300">
+            <div className="flex flex-col items-center">
 
                 {/*start*/}
 
@@ -20,11 +20,11 @@ const Page2 = (props) => {
 
             {/*content*/}
 
-            <div className="m-5 justify-center grid grid-cols-[repeat(auto-fit,minmax(300px,900px))] gap-20 border border-black">
+            <div className="m-5 justify-center grid grid-cols-[repeat(auto-fit,minmax(300px,900px))] gap-20">
                 {/*ostem nasa    */}
                 <div className="rounded-xl shadow-slate-700 shadow-md bg-slate-500/25">
-                        <div className="relative text-white pt-32 pb-5 pr-2 pl-2 border border-black">
-                            <div className=" flex flex-col absolute top-2 left-2 border border-black">
+                        <div className="relative text-white pt-32 pb-5 pr-2 pl-2">
+                            <div className=" flex flex-col absolute top-2 left-2 ">
                                 <div className="font-bold text-[clamp(1.5rem,2vw,2.25rem)] ">
                                     {experience[0].title}
                                 </div>
@@ -36,9 +36,9 @@ const Page2 = (props) => {
                                 </div>
                             </div>
 
-                            <div className=" flex absolute top-2 right-2 justify-center items-center border border-black">
-                                <div className=" mr-2 border border-black">
-                                    <img className="w-[clamp(30px,5vw,60px)] h-[clamp(30px,5vw,60px)] object-cover aspect-square rounded-full" src={"assets/images/test.png"} alt="" />
+                            <div className=" flex absolute top-2 right-2 justify-center items-center">
+                                <div className=" mr-2">
+                                    <img className="w-[clamp(30px,5vw,60px)] h-[clamp(30px,5vw,60px)] object-cover aspect-square rounded-full" src={"assets/images/NASALOGO.png"} alt="" />
                                 </div>
                                 <div className="text-[clamp(0.5rem,3vw,1rem)] text-white font-bold">
                                     {experience[0].company}
@@ -48,7 +48,7 @@ const Page2 = (props) => {
                                 </div>
                             </div>
 
-                            <div className="border border-black">
+                            <div className="">
                                 <div className="text-[clamp(0.5rem,3vw,1rem)] text-white font-semibold ">
                                     {experience[0].desc}
                                 </div>
@@ -58,8 +58,8 @@ const Page2 = (props) => {
 
                 {/*xr lab*/}
                 <div className="rounded-xl shadow-slate-700 shadow-md bg-slate-500/25">
-                    <div className="relative text-white pt-36 pb-5 pr-2 pl-2 border border-black">
-                        <div className=" flex flex-col w-[clamp(60px,30vw,600px)] absolute top-2 left-2 border border-black">
+                    <div className="relative text-white pt-40 pb-5 pr-2 pl-2">
+                        <div className=" flex flex-col w-[clamp(60px,30vw,600px)] absolute top-2 left-2">
                             <div className="font-bold text-[clamp(1.5rem,2vw,2.25rem)] ">
                                 {experience[1].title}
                             </div>
@@ -71,9 +71,9 @@ const Page2 = (props) => {
                             </div>
                         </div>
 
-                        <div className=" flex absolute top-2 right-2 justify-center items-center border border-black">
-                            <div className=" mr-2 border border-black">
-                                <img className="w-[clamp(30px,5vw,60px)] h-[clamp(30px,5vw,60px)] object-cover aspect-square rounded-full" src={"assets/images/test.png"} alt="" />
+                        <div className=" flex absolute top-2 right-2 justify-center items-center">
+                            <div className=" mr-2">
+                                <img className="w-[clamp(30px,5vw,60px)] h-[clamp(30px,5vw,60px)] object-cover aspect-square rounded-full" src={"assets/images/ERAULOGO.png"} alt="" />
                             </div>
                             <div className="text-[clamp(0.5rem,3vw,1rem)] text-white font-bold">
                                 {experience[1].company}
@@ -83,7 +83,7 @@ const Page2 = (props) => {
                             </div>
                         </div>
 
-                        <div className="border border-black">
+                        <div className="">
                             <div className="text-[clamp(0.5rem,3vw,1rem)] text-white font-semibold ">
                                 {experience[1].desc}
                             </div>
@@ -93,8 +93,8 @@ const Page2 = (props) => {
 
                 {/*reu*/}
                 <div className="rounded-xl shadow-slate-700 shadow-md bg-slate-500/25">
-                    <div className="relative text-white pt-42 pb-5 pr-2 pl-2 border border-black">
-                        <div className=" flex flex-col w-[clamp(100px,50vw,600px)] absolute top-2 left-2 border border-black">
+                    <div className="relative text-white pt-50 pb-5 pr-2 pl-2">
+                        <div className=" flex flex-col w-[clamp(100px,50vw,600px)] absolute top-2 left-2">
                             <div className="font-bold text-[clamp(1.5rem,2vw,2.25rem)] ">
                                 {experience[2].title}
                             </div>
@@ -106,9 +106,9 @@ const Page2 = (props) => {
                             </div>
                         </div>
 
-                        <div className=" flex absolute top-2 right-2 justify-center items-center border border-black">
-                            <div className=" mr-2 border border-red-800">
-                                <img className="w-[clamp(30px,5vw,60px)] h-[clamp(30px,5vw,60px)] object-cover aspect-square rounded-full" src={"assets/images/test.png"} alt="" />
+                        <div className=" flex absolute top-2 right-2 justify-center items-center">
+                            <div className=" mr-2">
+                                <img className="w-[clamp(30px,5vw,60px)] h-[clamp(30px,5vw,60px)] object-cover aspect-square rounded-full" src={"assets/images/NSFLOGO.jpeg"} alt="" />
                             </div>
                             <div className="text-[clamp(0.5rem,3vw,1rem)] w-[clamp(60px,30vw,300px)] text-white font-bold">
                                 {experience[2].company}
@@ -118,7 +118,7 @@ const Page2 = (props) => {
                             </div>
                         </div>
 
-                        <div className="border border-black">
+                        <div className="">
                             <div className="text-[clamp(0.5rem,3vw,1rem)] text-white font-semibold ">
                                 {experience[2].desc}
                             </div>

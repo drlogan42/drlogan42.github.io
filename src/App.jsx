@@ -6,17 +6,17 @@ import Page4 from "./Page4.jsx";
 
 import PROJECTS from "./projects.jsx";
 import EXPERIENCE from "./experience.jsx";
-import SKILLS from "./skills.jsx";
 import EDUCATION from "./education.jsx";
 
 
 const App = () => {
     return (
+        // <PageTest/>
         <div className="h-screen flex flex-col">
             <Page0 bio={BIO} />
             <Page1 projects={PROJECTS} />
             <Page2 experience={EXPERIENCE}/>
-            <Page3 skills={SKILLS}/>
+            <Page3 skills/>
             <Page4 education={EDUCATION}/>
         </div>
     )

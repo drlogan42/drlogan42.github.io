@@ -12,39 +12,46 @@ const EDUCATION = [
         " and collaboration in Agile environments. Seeking to apply problem-solving and software design skills to a full-time software development position.",
     },
     {
-        title: " Honors",
-        desc: " Embry-Riddle Honors Program",
-        extra: ""
+        category: " Honors",
+        name: " Embry-Riddle Honors Program",
+        extra: "",
+        image: "/assets/images/ERAUHONORSLOGO.jpeg"
     },
     {
-        title: " Latin Honors",
-        desc: " Cum Laude",
-        extra: ""
+        category: " Latin Honors",
+        name: " Cum Laude",
+        extra: "",
+        image: "/assets/images/ALUMNILOGO.jpeg"
     },
     {
-        title: "Honor Society",
-        desc: "Tau Beta Pi Engineering Honor Society",
-        extra: "Corresponding Secretary"
+        category: "Honor Society",
+        name: "Tau Beta Pi Engineering Honor Society",
+        extra: "Corresponding Secretary",
+        image: "/assets/images/TBPLOGO.png"
     },
     {
-        title: "Honor Society",
-        desc: "Omicron Delta Kappa National Leadership Honor Society",
-        extra: "Vice President"
+        category: "Honor Society",
+        name: "Omicron Delta Kappa National Leadership Honor Society",
+        extra: "Vice President",
+        image: "/assets/images/ODKLOGO.png"
     },
     {
-        title: "Scholarship",
-        desc: "Embry-Riddle Presidential Scholarship",
-        extra: ""
+        category: "Scholarship",
+        name: "Embry-Riddle Presidential Scholarship",
+        extra: "",
+        image: "/assets/images/ERAULOGO.png"
     },
     {
-        title: "Scholarship",
-        desc: "Embry-Riddle College of Arts and Science Dean's List",
-        extra: ""
+        category: "Scholarship",
+        name: "Embry-Riddle College of Arts and Science Dean's List",
+        extra: "",
+        image: "/assets/images/COASLOGO.jpeg"
     },
     {
-        title: "Leadership",
-        desc: "Embry-Riddle Student Union Advisory Board",
-        extra: "Point of Contact"
+        category: "Leadership",
+        name: "Embry-Riddle Student Union Advisory Board",
+        extra: "Point of Contact",
+        image: "/assets/images/SUABLOGO.jpeg"
     },
 ];
 

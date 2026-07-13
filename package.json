@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview":"vite preview"
+    "preview": "vite preview"
   },
   "devDependencies": {
     "fluid-tailwindcss": "^1.1.7",
@@ -21,6 +21,8 @@
     "@tailwindcss/vite": "^4.3.1",
     "@vitejs/plugin-react": "^6.0.3",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7"
+    "react-dom": "^19.2.7",
+    "three": "^0.185.1"
   }
 }
+
