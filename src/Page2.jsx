@@ -9,11 +9,11 @@ const Page2 = (props) => {
                 {/*start*/}
 
                 <div className ="text-[clamp(2rem,2vw,5rem)] text-center font-bold text-[#142857]">
-                    Experience Text
+                    Experience
                 </div>
 
                 <div className ="text-[clamp(1.5rem,2vw,2.25rem)] text-center mb-10 font-bold text-[#142857]">
-                    Desc
+                    Work Experiences
                 </div>
 
             </div>
